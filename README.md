@@ -69,3 +69,11 @@ The file outputs overall and classwise accuracies for the considered classes.
     * White Static
 
     These were taken from [Pixabay](https://pixabay.com/)
+
+## References
+
+1. A. Ahamad, A. Anand, and P. Bhargava, “Accentdb: A database of non-
+native english accents to assist neural speech recognition,” in Proceedings of The
+12th Language Resources and Evaluation Conference. Marseille, France: European
+Language Resources Association, May 2020, pp. 5351–5358. [Online]. Available:
+[https://www.aclweb.org/anthology/2020.lrec-1.659](https://www.aclweb.org/anthology/2020.lrec-1.659)
